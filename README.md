@@ -221,3 +221,7 @@ node .agents/skills/widget-generation/scripts/motion-audit.mjs --url "http://loc
 ## Tech stack
 
 React 19 · TypeScript · Vite · Tailwind CSS 4 · Motion · GSAP · D3 · Embla Carousel · Lenis · Lucide icons · Inter
+
+## License
+
+[MIT](LICENSE) © 2026 thealihamza04
